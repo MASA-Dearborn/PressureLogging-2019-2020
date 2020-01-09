@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Pressure Sensor Schematic")(type Legacy)(uri "${KIPRJMOD}/Pressure Sensor Schematic.lib")(options "")(descr ""))
+)
