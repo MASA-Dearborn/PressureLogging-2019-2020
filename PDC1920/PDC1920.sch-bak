@@ -1,0 +1,61 @@
+EESchema Schematic File Version 4
+LIBS:PDC1920-cache
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MCU_Microchip_PIC16:PIC16F819-IP U?
+U 1 1 5E08ECB2
+P 3900 2900
+F 0 "U?" H 3900 3781 50  0000 C CNN
+F 1 "PIC16F819-IP" H 3900 3690 50  0000 C CNN
+F 2 "" H 3900 2900 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/39598F.pdf" H 3900 2900 50  0001 C CNN
+	1    3900 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x06 J?
+U 1 1 5E08FA26
+P 10200 2850
+F 0 "J?" H 10280 2842 50  0000 L CNN
+F 1 "Conn_01x06" H 10280 2751 50  0000 L CNN
+F 2 "" H 10200 2850 50  0001 C CNN
+F 3 "~" H 10200 2850 50  0001 C CNN
+	1    10200 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x04 J?
+U 1 1 5E09135E
+P 10200 1850
+F 0 "J?" H 10280 1842 50  0000 L CNN
+F 1 "Conn_01x04" H 10280 1751 50  0000 L CNN
+F 2 "" H 10200 1850 50  0001 C CNN
+F 3 "~" H 10200 1850 50  0001 C CNN
+	1    10200 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x20 J?
+U 1 1 5E0A5BF4
+P 10200 4650
+F 0 "J?" H 10280 4642 50  0000 L CNN
+F 1 "Conn_01x20" H 10280 4551 50  0000 L CNN
+F 2 "" H 10200 4650 50  0001 C CNN
+F 3 "~" H 10200 4650 50  0001 C CNN
+	1    10200 4650
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM60CIM3_NOPB
+D &plusmn;2&deg;C analog output temperature sensor with 6.25mV /&deg;C gain and TO-92 option
+K
+F http://www.ti.com/lit/ds/symlink/lm60.pdf
+$ENDCMP
+#
+#End Doc Library

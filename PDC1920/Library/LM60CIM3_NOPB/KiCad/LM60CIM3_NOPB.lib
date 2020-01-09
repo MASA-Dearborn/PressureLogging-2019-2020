@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LM60CIM3_NOPB
+#/156244/102863/2.45/3/3/Integrated Circuit
+DEF LM60CIM3_NOPB IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "LM60CIM3_NOPB" 850 200 50 H V L CNN
+F2 "SOT95P237X112-3N" 850 100 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/lm60.pdf" 850 0 50 H I L CNN
+F4 "&plusmn;2&deg;C analog output temperature sensor with 6.25mV /&deg;C gain and TO-92 option" 850 -100 50 H I L CNN "Description"
+F5 "1.12" 850 -200 50 H I L CNN "Height"
+F6 "926-LM60CIM3/NOPB" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=926-LM60CIM3%2FNOPB" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "LM60CIM3/NOPB" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X VS+ 1 0 0 200 R 50 50 0 0 U
+X V0 2 0 -100 200 R 50 50 0 0 U
+X GND 3 1000 0 200 L 50 50 0 0 W
+P 5 0 1 6 200 100 800 100 800 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

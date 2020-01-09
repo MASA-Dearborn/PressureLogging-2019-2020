@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LM60CIM3/NOPB
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=1.1
+Released=2015-04-13 16:15:48
+Downloaded=2020-01-07 22:03:11
+3D=Y

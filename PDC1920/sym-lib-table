@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name PIC16LF1826-I_SO)(type Legacy)(uri C:/KiCAD/Library/PIC16LF1826-I_SO/KiCad/PIC16LF1826-I_SO.lib)(options "")(descr ""))
+  (lib (name LM60CIM3_NOPB)(type Legacy)(uri ${KIPRJMOD}/Library/LM60CIM3_NOPB/KiCad/LM60CIM3_NOPB.lib)(options "")(descr ""))
+)
