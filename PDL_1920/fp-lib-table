@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name digikey-footprints)(type KiCad)(uri ${KIPRJMOD}/Library/digikey-footprints.pretty)(options "")(descr ""))
+  (lib (name PIC32)(type KiCad)(uri ${KIPRJMOD}/Library/PIC32.pretty)(options "")(descr ""))
+  (lib (name MASA_Library)(type KiCad)(uri ${KIPRJMOD}/Library/MASA_Library-master/MASA_Library.pretty)(options "")(descr ""))
+  (lib (name TXB0104PWR)(type KiCad)(uri ${KIPRJMOD}/Library/TXB0104PWR.pretty)(options "")(descr ""))
+)
