@@ -1,0 +1,16 @@
+.PIC16LF1826-I_SO :1 ;MCU Low power XLP with 32MHz Osc, 16 I/0
+SOIC127P1030X265-18N
+*STM IC
+*NGS
+*PLB 1="RA2" 2="RA3" 3="RA4" 4="RA5/'MCLR'/VPP" 5="VSS" 6="RB0" 7="RB1" 8="RB2" 9="RB3" 10="RB4" 11="RB5" 12="RB6" 13="RB7" 14="VDD" 15="RA6" 16="RA7" 17="RA0" 18="RA1"
+*MXP 18
+*DFN PIC16LF1826-I_SO
+~!Mouser Part Number (579-PIC16LF1826-I/SO)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=579-PIC16LF1826-I%2FSO)
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (PIC16LF1826-I/SO)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/PIC16LF1826-I_SO.pdf)
+~!Height (2.65mm)
+~!3D_Model (PIC16LF1826-I_SO)
+PIC16LF1826-I_SO
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!G 6.1!U 7.1!U 8.1!U 9.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!P 13.1!U 12.1!U 11.1!U 10.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'PIC16LF1826_I_SO'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "PIC16LF1826-I/SO" (!) = "", "SOIC127P1030X265-18N", "Small Outline Packages", "579-PIC16LF1826-I/SO", "https://www.mouser.com/Search/Refine.aspx?Keyword=579-PIC16LF1826-I%2FSO", "MCU Low power XLP with 32MHz Osc, 16 I/0", "https://componentsearchengine.com/Datasheets/1/PIC16LF1826-I_SO.pdf", "2.65 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=3-794636-4
+PartCategory=Connector
+PackageCategory=Other
+PinCount=6
+Version=2.1
+Released=2019-02-24 00:16:43
+Downloaded=2020-01-25 08:23:11
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC16LF1826-I_SO
+D MCU Low power XLP with 32MHz Osc, 16 I/0
+K
+F https://componentsearchengine.com/Datasheets/1/PIC16LF1826-I_SO.pdf
+$ENDCMP
+#
+#End Doc Library

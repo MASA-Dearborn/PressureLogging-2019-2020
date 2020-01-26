@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=PIC16LF1826-I/SO
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=18
+Version=2.1
+Released=2015-04-16 09:48:08
+Downloaded=2020-01-25 09:49:24
+3D=Y
