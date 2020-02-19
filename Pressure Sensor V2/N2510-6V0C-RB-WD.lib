@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# N2510-6V0C-RB-WD
+#
+DEF N2510-6V0C-RB-WD U 0 40 Y Y 1 L N
+F0 "U" -209 357 50 H V L BNN
+F1 "N2510-6V0C-RB-WD" -112 -598 50 H V L BNN
+F2 "3M_N2510-6V0C-RB-WD" 0 0 50 H I L BNN
+F3 "Header-10Pin" 0 0 50 H I L BNN
+F4 "3M" 0 0 50 H I L BNN
+F5 "1428501" 0 0 50 H I L BNN
+F6 "02P7333" 0 0 50 H I L BNN
+F7 "N2510-6V0C-RB-WD" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 16 -500 300 -500 -500 N
+P 2 0 0 16 -500 -500 500 -500 N
+P 2 0 0 16 500 -500 500 300 N
+P 2 0 0 16 500 300 -500 300 N
+X 1 1 -700 100 200 R 40 40 0 0 P 
+X 3 3 -700 0 200 R 40 40 0 0 P 
+X 5 5 -700 -100 200 R 40 40 0 0 P 
+X 7 7 -700 -200 200 R 40 40 0 0 P 
+X 9 9 -700 -300 200 R 40 40 0 0 P 
+X 2 2 700 100 200 L 40 40 0 0 P 
+X 4 4 700 0 200 L 40 40 0 0 P 
+X 6 6 700 -100 200 L 40 40 0 0 P 
+X 8 8 700 -200 200 L 40 40 0 0 P 
+X 10 10 700 -300 200 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
