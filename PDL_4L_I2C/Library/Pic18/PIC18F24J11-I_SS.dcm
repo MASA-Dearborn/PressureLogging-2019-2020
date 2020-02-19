@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC18F24J11-I_SS
+D MCU 16K Flash, Low Power XLP, SSOP28
+K
+F https://componentsearchengine.com/Datasheets/1/PIC18F24J11-I_SS.pdf
+$ENDCMP
+#
+#End Doc Library

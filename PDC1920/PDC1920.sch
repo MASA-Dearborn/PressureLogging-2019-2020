@@ -354,7 +354,7 @@ F 3 "" H 10150 3600 50  0001 C CNN
 $EndComp
 Connection ~ 4400 4550
 $Comp
-L Pressure~Sensor~Schematic:PressureSensor U2
+L PDC1920-rescue:PressureSensor-Pressure~Sensor~Schematic U2
 U 1 1 5E2B9A49
 P 5650 2700
 F 0 "U2" H 5650 2815 50  0000 C CNN
@@ -365,7 +365,7 @@ F 3 "" H 5650 2700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Pressure~Sensor~Schematic:PressureSensor U3
+L PDC1920-rescue:PressureSensor-Pressure~Sensor~Schematic U3
 U 1 1 5E2B9E78
 P 5650 3250
 F 0 "U3" H 5650 3365 50  0000 C CNN
@@ -455,7 +455,7 @@ SS5
 Text GLabel 6050 2800 2    50   Input ~ 0
 SS4
 $Comp
-L Pressure~Sensor~Schematic:PressureSensor U1
+L PDC1920-rescue:PressureSensor-Pressure~Sensor~Schematic U1
 U 1 1 5E2B91FC
 P 5650 2100
 F 0 "U1" H 5650 2215 50  0000 C CNN
